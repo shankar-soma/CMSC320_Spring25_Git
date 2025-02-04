@@ -9,3 +9,7 @@ Answer: One field we can use data science for is in the financial industry. With
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is the process of combining two branches into one. Rebasing is the process of moving a branch to a new base commit. The difference between the two is that merging keeps the commit history of the two branches while rebasing rewrites the commit history of the branch being rebased.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science and how it can be applied to different fields. I am also looking forward to working on the final group project and applying what I have learned throughout the semester to a real-world problem, and also meeting new people and working with them.
